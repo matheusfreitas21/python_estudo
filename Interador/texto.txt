@@ -1,0 +1,4 @@
+Olá mundo
+Esta ~e uam linha
+Python é fácil
+Ruby é interessante
